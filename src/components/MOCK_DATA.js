@@ -1,0 +1,1491 @@
+export const datas= [{
+  "name": "Afghanistan",
+  "alpha2Code": "AF",
+  "capital": "Kabul",
+  "population": 27657145,
+  "area": 652230.0
+}, {
+  "name": "Åland Islands",
+  "alpha2Code": "AX",
+  "capital": "Mariehamn",
+  "population": 28875,
+  "area": 1580.0
+}, {
+  "name": "Albania",
+  "alpha2Code": "AL",
+  "capital": "Tirana",
+  "population": 2886026,
+  "area": 28748.0
+}, {
+  "name": "Algeria",
+  "alpha2Code": "DZ",
+  "capital": "Algiers",
+  "population": 40400000,
+  "area": 2381741.0
+}, {
+  "name": "American Samoa",
+  "alpha2Code": "AS",
+  "capital": "Pago Pago",
+  "population": 57100,
+  "area": 199.0
+}, {
+  "name": "Andorra",
+  "alpha2Code": "AD",
+  "capital": "Andorra la Vella",
+  "population": 78014,
+  "area": 468.0
+}, {
+  "name": "Angola",
+  "alpha2Code": "AO",
+  "capital": "Luanda",
+  "population": 25868000,
+  "area": 1246700.0
+}, {
+  "name": "Anguilla",
+  "alpha2Code": "AI",
+  "capital": "The Valley",
+  "population": 13452,
+  "area": 91.0
+}, {
+  "name": "Antarctica",
+  "alpha2Code": "AQ",
+  "capital": "",
+  "population": 1000,
+  "area": 1.4E7
+}, {
+  "name": "Antigua and Barbuda",
+  "alpha2Code": "AG",
+  "capital": "Saint John's",
+  "population": 86295,
+  "area": 442.0
+}, {
+  "name": "Argentina",
+  "alpha2Code": "AR",
+  "capital": "Buenos Aires",
+  "population": 43590400,
+  "area": 2780400.0
+}, {
+  "name": "Armenia",
+  "alpha2Code": "AM",
+  "capital": "Yerevan",
+  "population": 2994400,
+  "area": 29743.0
+}, {
+  "name": "Aruba",
+  "alpha2Code": "AW",
+  "capital": "Oranjestad",
+  "population": 107394,
+  "area": 180.0
+}, {
+  "name": "Australia",
+  "alpha2Code": "AU",
+  "capital": "Canberra",
+  "population": 24117360,
+  "area": 7692024.0
+}, {
+  "name": "Austria",
+  "alpha2Code": "AT",
+  "capital": "Vienna",
+  "population": 8725931,
+  "area": 83871.0
+}, {
+  "name": "Azerbaijan",
+  "alpha2Code": "AZ",
+  "capital": "Baku",
+  "population": 9730500,
+  "area": 86600.0
+}, {
+  "name": "Bahamas",
+  "alpha2Code": "BS",
+  "capital": "Nassau",
+  "population": 378040,
+  "area": 13943.0
+}, {
+  "name": "Bahrain",
+  "alpha2Code": "BH",
+  "capital": "Manama",
+  "population": 1404900,
+  "area": 765.0
+}, {
+  "name": "Bangladesh",
+  "alpha2Code": "BD",
+  "capital": "Dhaka",
+  "population": 161006790,
+  "area": 147570.0
+}, {
+  "name": "Barbados",
+  "alpha2Code": "BB",
+  "capital": "Bridgetown",
+  "population": 285000,
+  "area": 430.0
+}, {
+  "name": "Belarus",
+  "alpha2Code": "BY",
+  "capital": "Minsk",
+  "population": 9498700,
+  "area": 207600.0
+}, {
+  "name": "Belgium",
+  "alpha2Code": "BE",
+  "capital": "Brussels",
+  "population": 11319511,
+  "area": 30528.0
+}, {
+  "name": "Belize",
+  "alpha2Code": "BZ",
+  "capital": "Belmopan",
+  "population": 370300,
+  "area": 22966.0
+}, {
+  "name": "Benin",
+  "alpha2Code": "BJ",
+  "capital": "Porto-Novo",
+  "population": 10653654,
+  "area": 112622.0
+}, {
+  "name": "Bermuda",
+  "alpha2Code": "BM",
+  "capital": "Hamilton",
+  "population": 61954,
+  "area": 54.0
+}, {
+  "name": "Bhutan",
+  "alpha2Code": "BT",
+  "capital": "Thimphu",
+  "population": 775620,
+  "area": 38394.0
+}, {
+  "name": "Bolivia (Plurinational State of)",
+  "alpha2Code": "BO",
+  "capital": "Sucre",
+  "population": 10985059,
+  "area": 1098581.0
+}, {
+  "name": "Bonaire, Sint Eustatius and Saba",
+  "alpha2Code": "BQ",
+  "capital": "Kralendijk",
+  "population": 17408,
+  "area": 294.0
+}, {
+  "name": "Bosnia and Herzegovina",
+  "alpha2Code": "BA",
+  "capital": "Sarajevo",
+  "population": 3531159,
+  "area": 51209.0
+}, {
+  "name": "Botswana",
+  "alpha2Code": "BW",
+  "capital": "Gaborone",
+  "population": 2141206,
+  "area": 582000.0
+}, {
+  "name": "Bouvet Island",
+  "alpha2Code": "BV",
+  "capital": "",
+  "population": 0,
+  "area": 49.0
+}, {
+  "name": "Brazil",
+  "alpha2Code": "BR",
+  "capital": "Brasília",
+  "population": 206135893,
+  "area": 8515767.0
+}, {
+  "name": "British Indian Ocean Territory",
+  "alpha2Code": "IO",
+  "capital": "Diego Garcia",
+  "population": 3000,
+  "area": 60.0
+}, {
+  "name": "United States Minor Outlying Islands",
+  "alpha2Code": "UM",
+  "capital": "",
+  "population": 300
+}, {
+  "name": "Virgin Islands (British)",
+  "alpha2Code": "VG",
+  "capital": "Road Town",
+  "population": 28514,
+  "area": 151.0
+}, {
+  "name": "Virgin Islands (U.S.)",
+  "alpha2Code": "VI",
+  "capital": "Charlotte Amalie",
+  "population": 114743,
+  "area": 346.36
+}, {
+  "name": "Brunei Darussalam",
+  "alpha2Code": "BN",
+  "capital": "Bandar Seri Begawan",
+  "population": 411900,
+  "area": 5765.0
+}, {
+  "name": "Bulgaria",
+  "alpha2Code": "BG",
+  "capital": "Sofia",
+  "population": 7153784,
+  "area": 110879.0
+}, {
+  "name": "Burkina Faso",
+  "alpha2Code": "BF",
+  "capital": "Ouagadougou",
+  "population": 19034397,
+  "area": 272967.0
+}, {
+  "name": "Burundi",
+  "alpha2Code": "BI",
+  "capital": "Bujumbura",
+  "population": 10114505,
+  "area": 27834.0
+}, {
+  "name": "Cambodia",
+  "alpha2Code": "KH",
+  "capital": "Phnom Penh",
+  "population": 15626444,
+  "area": 181035.0
+}, {
+  "name": "Cameroon",
+  "alpha2Code": "CM",
+  "capital": "Yaoundé",
+  "population": 22709892,
+  "area": 475442.0
+}, {
+  "name": "Canada",
+  "alpha2Code": "CA",
+  "capital": "Ottawa",
+  "population": 36155487,
+  "area": 9984670.0
+}, {
+  "name": "Cabo Verde",
+  "alpha2Code": "CV",
+  "capital": "Praia",
+  "population": 531239,
+  "area": 4033.0
+}, {
+  "name": "Cayman Islands",
+  "alpha2Code": "KY",
+  "capital": "George Town",
+  "population": 58238,
+  "area": 264.0
+}, {
+  "name": "Central African Republic",
+  "alpha2Code": "CF",
+  "capital": "Bangui",
+  "population": 4998000,
+  "area": 622984.0
+}, {
+  "name": "Chad",
+  "alpha2Code": "TD",
+  "capital": "N'Djamena",
+  "population": 14497000,
+  "area": 1284000.0
+}, {
+  "name": "Chile",
+  "alpha2Code": "CL",
+  "capital": "Santiago",
+  "population": 18191900,
+  "area": 756102.0
+}, {
+  "name": "China",
+  "alpha2Code": "CN",
+  "capital": "Beijing",
+  "population": 1377422166,
+  "area": 9640011.0
+}, {
+  "name": "Christmas Island",
+  "alpha2Code": "CX",
+  "capital": "Flying Fish Cove",
+  "population": 2072,
+  "area": 135.0
+}, {
+  "name": "Cocos (Keeling) Islands",
+  "alpha2Code": "CC",
+  "capital": "West Island",
+  "population": 550,
+  "area": 14.0
+}, {
+  "name": "Colombia",
+  "alpha2Code": "CO",
+  "capital": "Bogotá",
+  "population": 48759958,
+  "area": 1141748.0
+}, {
+  "name": "Comoros",
+  "alpha2Code": "KM",
+  "capital": "Moroni",
+  "population": 806153,
+  "area": 1862.0
+}, {
+  "name": "Congo",
+  "alpha2Code": "CG",
+  "capital": "Brazzaville",
+  "population": 4741000,
+  "area": 342000.0
+}, {
+  "name": "Congo (Democratic Republic of the)",
+  "alpha2Code": "CD",
+  "capital": "Kinshasa",
+  "population": 85026000,
+  "area": 2344858.0
+}, {
+  "name": "Cook Islands",
+  "alpha2Code": "CK",
+  "capital": "Avarua",
+  "population": 18100,
+  "area": 236.0
+}, {
+  "name": "Costa Rica",
+  "alpha2Code": "CR",
+  "capital": "San José",
+  "population": 4890379,
+  "area": 51100.0
+}, {
+  "name": "Croatia",
+  "alpha2Code": "HR",
+  "capital": "Zagreb",
+  "population": 4190669,
+  "area": 56594.0
+}, {
+  "name": "Cuba",
+  "alpha2Code": "CU",
+  "capital": "Havana",
+  "population": 11239004,
+  "area": 109884.0
+}, {
+  "name": "Curaçao",
+  "alpha2Code": "CW",
+  "capital": "Willemstad",
+  "population": 154843,
+  "area": 444.0
+}, {
+  "name": "Cyprus",
+  "alpha2Code": "CY",
+  "capital": "Nicosia",
+  "population": 847000,
+  "area": 9251.0
+}, {
+  "name": "Czech Republic",
+  "alpha2Code": "CZ",
+  "capital": "Prague",
+  "population": 10558524,
+  "area": 78865.0
+}, {
+  "name": "Denmark",
+  "alpha2Code": "DK",
+  "capital": "Copenhagen",
+  "population": 5717014,
+  "area": 43094.0
+}, {
+  "name": "Djibouti",
+  "alpha2Code": "DJ",
+  "capital": "Djibouti",
+  "population": 900000,
+  "area": 23200.0
+}, {
+  "name": "Dominica",
+  "alpha2Code": "DM",
+  "capital": "Roseau",
+  "population": 71293,
+  "area": 751.0
+}, {
+  "name": "Dominican Republic",
+  "alpha2Code": "DO",
+  "capital": "Santo Domingo",
+  "population": 10075045,
+  "area": 48671.0
+}, {
+  "name": "Ecuador",
+  "alpha2Code": "EC",
+  "capital": "Quito",
+  "population": 16545799,
+  "area": 276841.0
+}, {
+  "name": "Egypt",
+  "alpha2Code": "EG",
+  "capital": "Cairo",
+  "population": 91290000,
+  "area": 1002450.0
+}, {
+  "name": "El Salvador",
+  "alpha2Code": "SV",
+  "capital": "San Salvador",
+  "population": 6520675,
+  "area": 21041.0
+}, {
+  "name": "Equatorial Guinea",
+  "alpha2Code": "GQ",
+  "capital": "Malabo",
+  "population": 1222442,
+  "area": 28051.0
+}, {
+  "name": "Eritrea",
+  "alpha2Code": "ER",
+  "capital": "Asmara",
+  "population": 5352000,
+  "area": 117600.0
+}, {
+  "name": "Estonia",
+  "alpha2Code": "EE",
+  "capital": "Tallinn",
+  "population": 1315944,
+  "area": 45227.0
+}, {
+  "name": "Ethiopia",
+  "alpha2Code": "ET",
+  "capital": "Addis Ababa",
+  "population": 92206005,
+  "area": 1104300.0
+}, {
+  "name": "Falkland Islands (Malvinas)",
+  "alpha2Code": "FK",
+  "capital": "Stanley",
+  "population": 2563,
+  "area": 12173.0
+}, {
+  "name": "Faroe Islands",
+  "alpha2Code": "FO",
+  "capital": "Tórshavn",
+  "population": 49376,
+  "area": 1393.0
+}, {
+  "name": "Fiji",
+  "alpha2Code": "FJ",
+  "capital": "Suva",
+  "population": 867000,
+  "area": 18272.0
+}, {
+  "name": "Finland",
+  "alpha2Code": "FI",
+  "capital": "Helsinki",
+  "population": 5491817,
+  "area": 338424.0
+}, {
+  "name": "France",
+  "alpha2Code": "FR",
+  "capital": "Paris",
+  "population": 66710000,
+  "area": 640679.0
+}, {
+  "name": "French Guiana",
+  "alpha2Code": "GF",
+  "capital": "Cayenne",
+  "population": 254541
+}, {
+  "name": "French Polynesia",
+  "alpha2Code": "PF",
+  "capital": "Papeetē",
+  "population": 271800,
+  "area": 4167.0
+}, {
+  "name": "French Southern Territories",
+  "alpha2Code": "TF",
+  "capital": "Port-aux-Français",
+  "population": 140,
+  "area": 7747.0
+}, {
+  "name": "Gabon",
+  "alpha2Code": "GA",
+  "capital": "Libreville",
+  "population": 1802278,
+  "area": 267668.0
+}, {
+  "name": "Gambia",
+  "alpha2Code": "GM",
+  "capital": "Banjul",
+  "population": 1882450,
+  "area": 11295.0
+}, {
+  "name": "Georgia",
+  "alpha2Code": "GE",
+  "capital": "Tbilisi",
+  "population": 3720400,
+  "area": 69700.0
+}, {
+  "name": "Germany",
+  "alpha2Code": "DE",
+  "capital": "Berlin",
+  "population": 81770900,
+  "area": 357114.0
+}, {
+  "name": "Ghana",
+  "alpha2Code": "GH",
+  "capital": "Accra",
+  "population": 27670174,
+  "area": 238533.0
+}, {
+  "name": "Gibraltar",
+  "alpha2Code": "GI",
+  "capital": "Gibraltar",
+  "population": 33140,
+  "area": 6.0
+}, {
+  "name": "Greece",
+  "alpha2Code": "GR",
+  "capital": "Athens",
+  "population": 10858018,
+  "area": 131990.0
+}, {
+  "name": "Greenland",
+  "alpha2Code": "GL",
+  "capital": "Nuuk",
+  "population": 55847,
+  "area": 2166086.0
+}, {
+  "name": "Grenada",
+  "alpha2Code": "GD",
+  "capital": "St. George's",
+  "population": 103328,
+  "area": 344.0
+}, {
+  "name": "Guadeloupe",
+  "alpha2Code": "GP",
+  "capital": "Basse-Terre",
+  "population": 400132
+}, {
+  "name": "Guam",
+  "alpha2Code": "GU",
+  "capital": "Hagåtña",
+  "population": 184200,
+  "area": 549.0
+}, {
+  "name": "Guatemala",
+  "alpha2Code": "GT",
+  "capital": "Guatemala City",
+  "population": 16176133,
+  "area": 108889.0
+}, {
+  "name": "Guernsey",
+  "alpha2Code": "GG",
+  "capital": "St. Peter Port",
+  "population": 62999,
+  "area": 78.0
+}, {
+  "name": "Guinea",
+  "alpha2Code": "GN",
+  "capital": "Conakry",
+  "population": 12947000,
+  "area": 245857.0
+}, {
+  "name": "Guinea-Bissau",
+  "alpha2Code": "GW",
+  "capital": "Bissau",
+  "population": 1547777,
+  "area": 36125.0
+}, {
+  "name": "Guyana",
+  "alpha2Code": "GY",
+  "capital": "Georgetown",
+  "population": 746900,
+  "area": 214969.0
+}, {
+  "name": "Haiti",
+  "alpha2Code": "HT",
+  "capital": "Port-au-Prince",
+  "population": 11078033,
+  "area": 27750.0
+}, {
+  "name": "Heard Island and McDonald Islands",
+  "alpha2Code": "HM",
+  "capital": "",
+  "population": 0,
+  "area": 412.0
+}, {
+  "name": "Holy See",
+  "alpha2Code": "VA",
+  "capital": "Rome",
+  "population": 451,
+  "area": 0.44
+}, {
+  "name": "Honduras",
+  "alpha2Code": "HN",
+  "capital": "Tegucigalpa",
+  "population": 8576532,
+  "area": 112492.0
+}, {
+  "name": "Hong Kong",
+  "alpha2Code": "HK",
+  "capital": "City of Victoria",
+  "population": 7324300,
+  "area": 1104.0
+}, {
+  "name": "Hungary",
+  "alpha2Code": "HU",
+  "capital": "Budapest",
+  "population": 9823000,
+  "area": 93028.0
+}, {
+  "name": "Iceland",
+  "alpha2Code": "IS",
+  "capital": "Reykjavík",
+  "population": 334300,
+  "area": 103000.0
+}, {
+  "name": "India",
+  "alpha2Code": "IN",
+  "capital": "New Delhi",
+  "population": 1295210000,
+  "area": 3287590.0
+}, {
+  "name": "Indonesia",
+  "alpha2Code": "ID",
+  "capital": "Jakarta",
+  "population": 258705000,
+  "area": 1904569.0
+}, {
+  "name": "Côte d'Ivoire",
+  "alpha2Code": "CI",
+  "capital": "Yamoussoukro",
+  "population": 22671331,
+  "area": 322463.0
+}, {
+  "name": "Iran (Islamic Republic of)",
+  "alpha2Code": "IR",
+  "capital": "Tehran",
+  "population": 79369900,
+  "area": 1648195.0
+}, {
+  "name": "Iraq",
+  "alpha2Code": "IQ",
+  "capital": "Baghdad",
+  "population": 37883543,
+  "area": 438317.0
+}, {
+  "name": "Ireland",
+  "alpha2Code": "IE",
+  "capital": "Dublin",
+  "population": 6378000,
+  "area": 70273.0
+}, {
+  "name": "Isle of Man",
+  "alpha2Code": "IM",
+  "capital": "Douglas",
+  "population": 84497,
+  "area": 572.0
+}, {
+  "name": "Israel",
+  "alpha2Code": "IL",
+  "capital": "Jerusalem",
+  "population": 8527400,
+  "area": 20770.0
+}, {
+  "name": "Italy",
+  "alpha2Code": "IT",
+  "capital": "Rome",
+  "population": 60665551,
+  "area": 301336.0
+}, {
+  "name": "Jamaica",
+  "alpha2Code": "JM",
+  "capital": "Kingston",
+  "population": 2723246,
+  "area": 10991.0
+}, {
+  "name": "Japan",
+  "alpha2Code": "JP",
+  "capital": "Tokyo",
+  "population": 126960000,
+  "area": 377930.0
+}, {
+  "name": "Jersey",
+  "alpha2Code": "JE",
+  "capital": "Saint Helier",
+  "population": 100800,
+  "area": 116.0
+}, {
+  "name": "Jordan",
+  "alpha2Code": "JO",
+  "capital": "Amman",
+  "population": 9531712,
+  "area": 89342.0
+}, {
+  "name": "Kazakhstan",
+  "alpha2Code": "KZ",
+  "capital": "Astana",
+  "population": 17753200,
+  "area": 2724900.0
+}, {
+  "name": "Kenya",
+  "alpha2Code": "KE",
+  "capital": "Nairobi",
+  "population": 47251000,
+  "area": 580367.0
+}, {
+  "name": "Kiribati",
+  "alpha2Code": "KI",
+  "capital": "South Tarawa",
+  "population": 113400,
+  "area": 811.0
+}, {
+  "name": "Kuwait",
+  "alpha2Code": "KW",
+  "capital": "Kuwait City",
+  "population": 4183658,
+  "area": 17818.0
+}, {
+  "name": "Kyrgyzstan",
+  "alpha2Code": "KG",
+  "capital": "Bishkek",
+  "population": 6047800,
+  "area": 199951.0
+}, {
+  "name": "Lao People's Democratic Republic",
+  "alpha2Code": "LA",
+  "capital": "Vientiane",
+  "population": 6492400,
+  "area": 236800.0
+}, {
+  "name": "Latvia",
+  "alpha2Code": "LV",
+  "capital": "Riga",
+  "population": 1961600,
+  "area": 64559.0
+}, {
+  "name": "Lebanon",
+  "alpha2Code": "LB",
+  "capital": "Beirut",
+  "population": 5988000,
+  "area": 10452.0
+}, {
+  "name": "Lesotho",
+  "alpha2Code": "LS",
+  "capital": "Maseru",
+  "population": 1894194,
+  "area": 30355.0
+}, {
+  "name": "Liberia",
+  "alpha2Code": "LR",
+  "capital": "Monrovia",
+  "population": 4615000,
+  "area": 111369.0
+}, {
+  "name": "Libya",
+  "alpha2Code": "LY",
+  "capital": "Tripoli",
+  "population": 6385000,
+  "area": 1759540.0
+}, {
+  "name": "Liechtenstein",
+  "alpha2Code": "LI",
+  "capital": "Vaduz",
+  "population": 37623,
+  "area": 160.0
+}, {
+  "name": "Lithuania",
+  "alpha2Code": "LT",
+  "capital": "Vilnius",
+  "population": 2872294,
+  "area": 65300.0
+}, {
+  "name": "Luxembourg",
+  "alpha2Code": "LU",
+  "capital": "Luxembourg",
+  "population": 576200,
+  "area": 2586.0
+}, {
+  "name": "Macao",
+  "alpha2Code": "MO",
+  "capital": "",
+  "population": 649100,
+  "area": 30.0
+}, {
+  "name": "Macedonia (the former Yugoslav Republic of)",
+  "alpha2Code": "MK",
+  "capital": "Skopje",
+  "population": 2058539,
+  "area": 25713.0
+}, {
+  "name": "Madagascar",
+  "alpha2Code": "MG",
+  "capital": "Antananarivo",
+  "population": 22434363,
+  "area": 587041.0
+}, {
+  "name": "Malawi",
+  "alpha2Code": "MW",
+  "capital": "Lilongwe",
+  "population": 16832910,
+  "area": 118484.0
+}, {
+  "name": "Malaysia",
+  "alpha2Code": "MY",
+  "capital": "Kuala Lumpur",
+  "population": 31405416,
+  "area": 330803.0
+}, {
+  "name": "Maldives",
+  "alpha2Code": "MV",
+  "capital": "Malé",
+  "population": 344023,
+  "area": 300.0
+}, {
+  "name": "Mali",
+  "alpha2Code": "ML",
+  "capital": "Bamako",
+  "population": 18135000,
+  "area": 1240192.0
+}, {
+  "name": "Malta",
+  "alpha2Code": "MT",
+  "capital": "Valletta",
+  "population": 425384,
+  "area": 316.0
+}, {
+  "name": "Marshall Islands",
+  "alpha2Code": "MH",
+  "capital": "Majuro",
+  "population": 54880,
+  "area": 181.0
+}, {
+  "name": "Martinique",
+  "alpha2Code": "MQ",
+  "capital": "Fort-de-France",
+  "population": 378243
+}, {
+  "name": "Mauritania",
+  "alpha2Code": "MR",
+  "capital": "Nouakchott",
+  "population": 3718678,
+  "area": 1030700.0
+}, {
+  "name": "Mauritius",
+  "alpha2Code": "MU",
+  "capital": "Port Louis",
+  "population": 1262879,
+  "area": 2040.0
+}, {
+  "name": "Mayotte",
+  "alpha2Code": "YT",
+  "capital": "Mamoudzou",
+  "population": 226915
+}, {
+  "name": "Mexico",
+  "alpha2Code": "MX",
+  "capital": "Mexico City",
+  "population": 122273473,
+  "area": 1964375.0
+}, {
+  "name": "Micronesia (Federated States of)",
+  "alpha2Code": "FM",
+  "capital": "Palikir",
+  "population": 102800,
+  "area": 702.0
+}, {
+  "name": "Moldova (Republic of)",
+  "alpha2Code": "MD",
+  "capital": "Chișinău",
+  "population": 3553100,
+  "area": 33846.0
+}, {
+  "name": "Monaco",
+  "alpha2Code": "MC",
+  "capital": "Monaco",
+  "population": 38400,
+  "area": 2.02
+}, {
+  "name": "Mongolia",
+  "alpha2Code": "MN",
+  "capital": "Ulan Bator",
+  "population": 3093100,
+  "area": 1564110.0
+}, {
+  "name": "Montenegro",
+  "alpha2Code": "ME",
+  "capital": "Podgorica",
+  "population": 621810,
+  "area": 13812.0
+}, {
+  "name": "Montserrat",
+  "alpha2Code": "MS",
+  "capital": "Plymouth",
+  "population": 4922,
+  "area": 102.0
+}, {
+  "name": "Morocco",
+  "alpha2Code": "MA",
+  "capital": "Rabat",
+  "population": 33337529,
+  "area": 446550.0
+}, {
+  "name": "Mozambique",
+  "alpha2Code": "MZ",
+  "capital": "Maputo",
+  "population": 26423700,
+  "area": 801590.0
+}, {
+  "name": "Myanmar",
+  "alpha2Code": "MM",
+  "capital": "Naypyidaw",
+  "population": 51419420,
+  "area": 676578.0
+}, {
+  "name": "Namibia",
+  "alpha2Code": "NA",
+  "capital": "Windhoek",
+  "population": 2324388,
+  "area": 825615.0
+}, {
+  "name": "Nauru",
+  "alpha2Code": "NR",
+  "capital": "Yaren",
+  "population": 10084,
+  "area": 21.0
+}, {
+  "name": "Nepal",
+  "alpha2Code": "NP",
+  "capital": "Kathmandu",
+  "population": 28431500,
+  "area": 147181.0
+}, {
+  "name": "Netherlands",
+  "alpha2Code": "NL",
+  "capital": "Amsterdam",
+  "population": 17019800,
+  "area": 41850.0
+}, {
+  "name": "New Caledonia",
+  "alpha2Code": "NC",
+  "capital": "Nouméa",
+  "population": 268767,
+  "area": 18575.0
+}, {
+  "name": "New Zealand",
+  "alpha2Code": "NZ",
+  "capital": "Wellington",
+  "population": 4697854,
+  "area": 270467.0
+}, {
+  "name": "Nicaragua",
+  "alpha2Code": "NI",
+  "capital": "Managua",
+  "population": 6262703,
+  "area": 130373.0
+}, {
+  "name": "Niger",
+  "alpha2Code": "NE",
+  "capital": "Niamey",
+  "population": 20715000,
+  "area": 1267000.0
+}, {
+  "name": "Nigeria",
+  "alpha2Code": "NG",
+  "capital": "Abuja",
+  "population": 186988000,
+  "area": 923768.0
+}, {
+  "name": "Niue",
+  "alpha2Code": "NU",
+  "capital": "Alofi",
+  "population": 1470,
+  "area": 260.0
+}, {
+  "name": "Norfolk Island",
+  "alpha2Code": "NF",
+  "capital": "Kingston",
+  "population": 2302,
+  "area": 36.0
+}, {
+  "name": "Korea (Democratic People's Republic of)",
+  "alpha2Code": "KP",
+  "capital": "Pyongyang",
+  "population": 25281000,
+  "area": 120538.0
+}, {
+  "name": "Northern Mariana Islands",
+  "alpha2Code": "MP",
+  "capital": "Saipan",
+  "population": 56940,
+  "area": 464.0
+}, {
+  "name": "Norway",
+  "alpha2Code": "NO",
+  "capital": "Oslo",
+  "population": 5223256,
+  "area": 323802.0
+}, {
+  "name": "Oman",
+  "alpha2Code": "OM",
+  "capital": "Muscat",
+  "population": 4420133,
+  "area": 309500.0
+}, {
+  "name": "Pakistan",
+  "alpha2Code": "PK",
+  "capital": "Islamabad",
+  "population": 194125062,
+  "area": 881912.0
+}, {
+  "name": "Palau",
+  "alpha2Code": "PW",
+  "capital": "Ngerulmud",
+  "population": 17950,
+  "area": 459.0
+}, {
+  "name": "Palestine, State of",
+  "alpha2Code": "PS",
+  "capital": "Ramallah",
+  "population": 4682467
+}, {
+  "name": "Panama",
+  "alpha2Code": "PA",
+  "capital": "Panama City",
+  "population": 3814672,
+  "area": 75417.0
+}, {
+  "name": "Papua New Guinea",
+  "alpha2Code": "PG",
+  "capital": "Port Moresby",
+  "population": 8083700,
+  "area": 462840.0
+}, {
+  "name": "Paraguay",
+  "alpha2Code": "PY",
+  "capital": "Asunción",
+  "population": 6854536,
+  "area": 406752.0
+}, {
+  "name": "Peru",
+  "alpha2Code": "PE",
+  "capital": "Lima",
+  "population": 31488700,
+  "area": 1285216.0
+}, {
+  "name": "Philippines",
+  "alpha2Code": "PH",
+  "capital": "Manila",
+  "population": 103279800,
+  "area": 342353.0
+}, {
+  "name": "Pitcairn",
+  "alpha2Code": "PN",
+  "capital": "Adamstown",
+  "population": 56,
+  "area": 47.0
+}, {
+  "name": "Poland",
+  "alpha2Code": "PL",
+  "capital": "Warsaw",
+  "population": 38437239,
+  "area": 312679.0
+}, {
+  "name": "Portugal",
+  "alpha2Code": "PT",
+  "capital": "Lisbon",
+  "population": 10374822,
+  "area": 92090.0
+}, {
+  "name": "Puerto Rico",
+  "alpha2Code": "PR",
+  "capital": "San Juan",
+  "population": 3474182,
+  "area": 8870.0
+}, {
+  "name": "Qatar",
+  "alpha2Code": "QA",
+  "capital": "Doha",
+  "population": 2587564,
+  "area": 11586.0
+}, {
+  "name": "Republic of Kosovo",
+  "alpha2Code": "XK",
+  "capital": "Pristina",
+  "population": 1733842,
+  "area": 10908.0
+}, {
+  "name": "Réunion",
+  "alpha2Code": "RE",
+  "capital": "Saint-Denis",
+  "population": 840974
+}, {
+  "name": "Romania",
+  "alpha2Code": "RO",
+  "capital": "Bucharest",
+  "population": 19861408,
+  "area": 238391.0
+}, {
+  "name": "Russian Federation",
+  "alpha2Code": "RU",
+  "capital": "Moscow",
+  "population": 146599183,
+  "area": 1.7124442E7
+}, {
+  "name": "Rwanda",
+  "alpha2Code": "RW",
+  "capital": "Kigali",
+  "population": 11553188,
+  "area": 26338.0
+}, {
+  "name": "Saint Barthélemy",
+  "alpha2Code": "BL",
+  "capital": "Gustavia",
+  "population": 9417,
+  "area": 21.0
+}, {
+  "name": "Saint Helena, Ascension and Tristan da Cunha",
+  "alpha2Code": "SH",
+  "capital": "Jamestown",
+  "population": 4255
+}, {
+  "name": "Saint Kitts and Nevis",
+  "alpha2Code": "KN",
+  "capital": "Basseterre",
+  "population": 46204,
+  "area": 261.0
+}, {
+  "name": "Saint Lucia",
+  "alpha2Code": "LC",
+  "capital": "Castries",
+  "population": 186000,
+  "area": 616.0
+}, {
+  "name": "Saint Martin (French part)",
+  "alpha2Code": "MF",
+  "capital": "Marigot",
+  "population": 36979,
+  "area": 53.0
+}, {
+  "name": "Saint Pierre and Miquelon",
+  "alpha2Code": "PM",
+  "capital": "Saint-Pierre",
+  "population": 6069,
+  "area": 242.0
+}, {
+  "name": "Saint Vincent and the Grenadines",
+  "alpha2Code": "VC",
+  "capital": "Kingstown",
+  "population": 109991,
+  "area": 389.0
+}, {
+  "name": "Samoa",
+  "alpha2Code": "WS",
+  "capital": "Apia",
+  "population": 194899,
+  "area": 2842.0
+}, {
+  "name": "San Marino",
+  "alpha2Code": "SM",
+  "capital": "City of San Marino",
+  "population": 33005,
+  "area": 61.0
+}, {
+  "name": "Sao Tome and Principe",
+  "alpha2Code": "ST",
+  "capital": "São Tomé",
+  "population": 187356,
+  "area": 964.0
+}, {
+  "name": "Saudi Arabia",
+  "alpha2Code": "SA",
+  "capital": "Riyadh",
+  "population": 32248200,
+  "area": 2149690.0
+}, {
+  "name": "Senegal",
+  "alpha2Code": "SN",
+  "capital": "Dakar",
+  "population": 14799859,
+  "area": 196722.0
+}, {
+  "name": "Serbia",
+  "alpha2Code": "RS",
+  "capital": "Belgrade",
+  "population": 7076372,
+  "area": 88361.0
+}, {
+  "name": "Seychelles",
+  "alpha2Code": "SC",
+  "capital": "Victoria",
+  "population": 91400,
+  "area": 452.0
+}, {
+  "name": "Sierra Leone",
+  "alpha2Code": "SL",
+  "capital": "Freetown",
+  "population": 7075641,
+  "area": 71740.0
+}, {
+  "name": "Singapore",
+  "alpha2Code": "SG",
+  "capital": "Singapore",
+  "population": 5535000,
+  "area": 710.0
+}, {
+  "name": "Sint Maarten (Dutch part)",
+  "alpha2Code": "SX",
+  "capital": "Philipsburg",
+  "population": 38247,
+  "area": 34.0
+}, {
+  "name": "Slovakia",
+  "alpha2Code": "SK",
+  "capital": "Bratislava",
+  "population": 5426252,
+  "area": 49037.0
+}, {
+  "name": "Slovenia",
+  "alpha2Code": "SI",
+  "capital": "Ljubljana",
+  "population": 2064188,
+  "area": 20273.0
+}, {
+  "name": "Solomon Islands",
+  "alpha2Code": "SB",
+  "capital": "Honiara",
+  "population": 642000,
+  "area": 28896.0
+}, {
+  "name": "Somalia",
+  "alpha2Code": "SO",
+  "capital": "Mogadishu",
+  "population": 11079000,
+  "area": 637657.0
+}, {
+  "name": "South Africa",
+  "alpha2Code": "ZA",
+  "capital": "Pretoria",
+  "population": 55653654,
+  "area": 1221037.0
+}, {
+  "name": "South Georgia and the South Sandwich Islands",
+  "alpha2Code": "GS",
+  "capital": "King Edward Point",
+  "population": 30
+}, {
+  "name": "Korea (Republic of)",
+  "alpha2Code": "KR",
+  "capital": "Seoul",
+  "population": 50801405,
+  "area": 100210.0
+}, {
+  "name": "South Sudan",
+  "alpha2Code": "SS",
+  "capital": "Juba",
+  "population": 12131000,
+  "area": 619745.0
+}, {
+  "name": "Spain",
+  "alpha2Code": "ES",
+  "capital": "Madrid",
+  "population": 46438422,
+  "area": 505992.0
+}, {
+  "name": "Sri Lanka",
+  "alpha2Code": "LK",
+  "capital": "Colombo",
+  "population": 20966000,
+  "area": 65610.0
+}, {
+  "name": "Sudan",
+  "alpha2Code": "SD",
+  "capital": "Khartoum",
+  "population": 39598700,
+  "area": 1886068.0
+}, {
+  "name": "Suriname",
+  "alpha2Code": "SR",
+  "capital": "Paramaribo",
+  "population": 541638,
+  "area": 163820.0
+}, {
+  "name": "Svalbard and Jan Mayen",
+  "alpha2Code": "SJ",
+  "capital": "Longyearbyen",
+  "population": 2562
+}, {
+  "name": "Swaziland",
+  "alpha2Code": "SZ",
+  "capital": "Lobamba",
+  "population": 1132657,
+  "area": 17364.0
+}, {
+  "name": "Sweden",
+  "alpha2Code": "SE",
+  "capital": "Stockholm",
+  "population": 9894888,
+  "area": 450295.0
+}, {
+  "name": "Switzerland",
+  "alpha2Code": "CH",
+  "capital": "Bern",
+  "population": 8341600,
+  "area": 41284.0
+}, {
+  "name": "Syrian Arab Republic",
+  "alpha2Code": "SY",
+  "capital": "Damascus",
+  "population": 18564000,
+  "area": 185180.0
+}, {
+  "name": "Taiwan",
+  "alpha2Code": "TW",
+  "capital": "Taipei",
+  "population": 23503349,
+  "area": 36193.0
+}, {
+  "name": "Tajikistan",
+  "alpha2Code": "TJ",
+  "capital": "Dushanbe",
+  "population": 8593600,
+  "area": 143100.0
+}, {
+  "name": "Tanzania, United Republic of",
+  "alpha2Code": "TZ",
+  "capital": "Dodoma",
+  "population": 55155000,
+  "area": 945087.0
+}, {
+  "name": "Thailand",
+  "alpha2Code": "TH",
+  "capital": "Bangkok",
+  "population": 65327652,
+  "area": 513120.0
+}, {
+  "name": "Timor-Leste",
+  "alpha2Code": "TL",
+  "capital": "Dili",
+  "population": 1167242,
+  "area": 14874.0
+}, {
+  "name": "Togo",
+  "alpha2Code": "TG",
+  "capital": "Lomé",
+  "population": 7143000,
+  "area": 56785.0
+}, {
+  "name": "Tokelau",
+  "alpha2Code": "TK",
+  "capital": "Fakaofo",
+  "population": 1411,
+  "area": 12.0
+}, {
+  "name": "Tonga",
+  "alpha2Code": "TO",
+  "capital": "Nuku'alofa",
+  "population": 103252,
+  "area": 747.0
+}, {
+  "name": "Trinidad and Tobago",
+  "alpha2Code": "TT",
+  "capital": "Port of Spain",
+  "population": 1349667,
+  "area": 5130.0
+}, {
+  "name": "Tunisia",
+  "alpha2Code": "TN",
+  "capital": "Tunis",
+  "population": 11154400,
+  "area": 163610.0
+}, {
+  "name": "Turkey",
+  "alpha2Code": "TR",
+  "capital": "Ankara",
+  "population": 78741053,
+  "area": 783562.0
+}, {
+  "name": "Turkmenistan",
+  "alpha2Code": "TM",
+  "capital": "Ashgabat",
+  "population": 4751120,
+  "area": 488100.0
+}, {
+  "name": "Turks and Caicos Islands",
+  "alpha2Code": "TC",
+  "capital": "Cockburn Town",
+  "population": 31458,
+  "area": 948.0
+}, {
+  "name": "Tuvalu",
+  "alpha2Code": "TV",
+  "capital": "Funafuti",
+  "population": 10640,
+  "area": 26.0
+}, {
+  "name": "Uganda",
+  "alpha2Code": "UG",
+  "capital": "Kampala",
+  "population": 33860700,
+  "area": 241550.0
+}, {
+  "name": "Ukraine",
+  "alpha2Code": "UA",
+  "capital": "Kiev",
+  "population": 42692393,
+  "area": 603700.0
+}, {
+  "name": "United Arab Emirates",
+  "alpha2Code": "AE",
+  "capital": "Abu Dhabi",
+  "population": 9856000,
+  "area": 83600.0
+}, {
+  "name": "United Kingdom of Great Britain and Northern Ireland",
+  "alpha2Code": "GB",
+  "capital": "London",
+  "population": 65110000,
+  "area": 242900.0
+}, {
+  "name": "United States of America",
+  "alpha2Code": "US",
+  "capital": "Washington, D.C.",
+  "population": 323947000,
+  "area": 9629091.0
+}, {
+  "name": "Uruguay",
+  "alpha2Code": "UY",
+  "capital": "Montevideo",
+  "population": 3480222,
+  "area": 181034.0
+}, {
+  "name": "Uzbekistan",
+  "alpha2Code": "UZ",
+  "capital": "Tashkent",
+  "population": 31576400,
+  "area": 447400.0
+}, {
+  "name": "Vanuatu",
+  "alpha2Code": "VU",
+  "capital": "Port Vila",
+  "population": 277500,
+  "area": 12189.0
+}, {
+  "name": "Venezuela (Bolivarian Republic of)",
+  "alpha2Code": "VE",
+  "capital": "Caracas",
+  "population": 31028700,
+  "area": 916445.0
+}, {
+  "name": "Viet Nam",
+  "alpha2Code": "VN",
+  "capital": "Hanoi",
+  "population": 92700000,
+  "area": 331212.0
+}, {
+  "name": "Wallis and Futuna",
+  "alpha2Code": "WF",
+  "capital": "Mata-Utu",
+  "population": 11750,
+  "area": 142.0
+}, {
+  "name": "Western Sahara",
+  "alpha2Code": "EH",
+  "capital": "El Aaiún",
+  "population": 510713,
+  "area": 266000.0
+}, {
+  "name": "Yemen",
+  "alpha2Code": "YE",
+  "capital": "Sana'a",
+  "population": 27478000,
+  "area": 527968.0
+}, {
+  "name": "Zambia",
+  "alpha2Code": "ZM",
+  "capital": "Lusaka",
+  "population": 15933883,
+  "area": 752612.0
+}, {
+  "name": "Zimbabwe",
+  "alpha2Code": "ZW",
+  "capital": "Harare",
+  "population": 14240168,
+  "area": 390757.0
+}]
