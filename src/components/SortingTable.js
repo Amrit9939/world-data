@@ -2,7 +2,7 @@ import React, {useEffect,useMemo,useState} from "react";
 import axios from "axios";
 import {useTable,useSortBy,useGlobalFilter} from "react-table";
 import {COLUMNS} from "./columns";
-import {datas} from "./MOCK_DATA.js";
+import {datas} from "./WORLD_DATA.js";
 import {GlobalFilter} from "./GlobalFilter";
 
 

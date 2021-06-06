@@ -5,7 +5,7 @@ export const GlobalFilter = ({filter,setFilter}) => {
     <div className="search">
     <span>
     Search: {" "}
-    <input value={filter || ""}
+    <input style={{margin: "1vh"}} placeholder=" Enter Country" value={filter || ""}
     onChange={e=> setFilter(e.target.value)} />
     </span>
     </div>
